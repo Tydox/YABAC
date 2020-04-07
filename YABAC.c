@@ -1,4 +1,4 @@
-
+ 
 int main(void) {
     BM* TT = bm_make(16, 4);
     for (int c = 0; c <= --(TT->r_size); ++c)
