@@ -18,5 +18,13 @@
     <ClCompile Include="YABAC.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bm.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
